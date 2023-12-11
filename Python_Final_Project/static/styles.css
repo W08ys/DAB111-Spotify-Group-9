@@ -1,0 +1,21 @@
+body {
+    background-color: #000 !important; /* Black background */
+    color: #fff !important; /* White text */
+}
+
+.navbar {
+    background-color: #1DB954 !important; /* Spotify green */
+}
+
+.container {
+    background-color: #121212 !important; /* Dark background for containers */
+}
+
+.table {
+    color: #fff !important; /* White text for table */
+}
+
+.form-control {
+    background-color: #333 !important; /* Dark background for form inputs */
+    color: #fff !important; /* White text for form inputs */
+}
